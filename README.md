@@ -22,8 +22,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametcanerl&" alt="sametcanerl" /></p>
 
 
-First Header  | Second Header
+Project | Live
 ------------- | -------------
-Content Cell  | Content Cell
+[Tour Places](https://github.com/sametcanerl/tour-places)| [Link](https://new-tour-places.netlify.app/)
 Content Cell  | Content Cell
 
