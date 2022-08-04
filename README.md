@@ -23,18 +23,3 @@
 
 
 
-// create instance of the table builder
-$tableBuilder = new \MaddHatter\MarkdownTable\Builder();
-
-// add some data
-$tableBuilder
-	->headers(['Tables','Are','Cool']) //headers
-	->align(['L','C','R']) // set column alignment
-	->rows([ // add multiple rows at once
-		['col 1 is', 'left-aligned', '$1600'],
-		['col 2 is', 'centered', '$12'],
-	])
-	->row(['col 3 is', 'right-aligned', '$1']); // add a single row
-
-// display the result
-echo $tableBuilder->render();
