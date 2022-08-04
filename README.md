@@ -22,4 +22,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametcanerl&" alt="sametcanerl" /></p>
 
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
