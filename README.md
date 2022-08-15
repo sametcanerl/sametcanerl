@@ -23,6 +23,8 @@
 
 Project | Live
 ------------- | -------------
+[Fireblog App](https://github.com/sametcanerl/blog-app)| [Link](https://sce-blogapp.netlify.app/)
+[XoX Game](https://github.com/sametcanerl/xox-game)| [Link](https://sce-xox-game.netlify.app/)
 [Tour Places](https://github.com/sametcanerl/tour-places)| [Link](https://new-tour-places.netlify.app/)
 [Weather App](https://github.com/sametcanerl/weather-app)  | [Link](https://samet-weather-app.netlify.app/)
 [Recipe App](https://github.com/sametcanerl/recipe-app)  | [Link](https://samet-recipe-app.netlify.app/)
