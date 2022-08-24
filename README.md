@@ -23,7 +23,7 @@
 
 Project | Live
 ------------- | -------------
-[Fireblog App](https://github.com/sametcanerl/shopping-cart)| [Link](https://sce-shopping-cart.netlify.app/)
+[Shopping Cart](https://github.com/sametcanerl/shopping-cart)| [Link](https://sce-shopping-cart.netlify.app/)
 [Fireblog App](https://github.com/sametcanerl/blog-app)| [Link](https://sce-blogapp.netlify.app/)
 [XoX Game](https://github.com/sametcanerl/xox-game)| [Link](https://sce-xox-game.netlify.app/)
 [Tour Places](https://github.com/sametcanerl/tour-places)| [Link](https://new-tour-places.netlify.app/)
